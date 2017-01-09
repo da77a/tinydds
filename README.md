@@ -1,0 +1,6 @@
+# tinydds
+Automatically exported from code.google.com/p/tinydds
+
+Saved this from invisibility as it is a nice minimal and unencumbered startingpoint for anything dds like...
+
+Not actually doing anything with it yet...
